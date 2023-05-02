@@ -17,6 +17,10 @@
 - ELB[Load Balancer]-- Nginx LB Replacement
 - AutoScaling--Automation for VM scaling
 - S3/EFS Storage--Shared storage
-- Route 53--Privat DNS Service 
+- Route 53--Privat DNS Service
+![AWS](https://github.com/aleem632/Lift-Shift/blob/8dc3578d4bfabd65b31ea7d40600763b12e2230b/Diagram/Lift-shift-AWS.png)
+
+
+
 
 
