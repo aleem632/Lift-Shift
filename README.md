@@ -1,4 +1,6 @@
 # Lift-Shift Application WorkLoad
+![Local Architect](https://github.com/aleem632/Lift-Shift/blob/6d99f524ec7c0460bfade81d8ded96025d939dc1/Lift-Shift.png)
+
 ### About AWS Project
 - Multi tier Application Stack
 - Host & Run On AWS Cloud for Production
