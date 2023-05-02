@@ -27,6 +27,8 @@
 - Build Application From source code 
 - Upload to s3 bucket
 - Download artifact to tomcat Ec2 Instance
+- Setu ELB with Https
+- Map Elb Endpoint to website name in Godaddy DNs
 ![AWS](https://github.com/aleem632/Lift-Shift/blob/8dc3578d4bfabd65b31ea7d40600763b12e2230b/Diagram/Lift-shift-AWS.png)
 
 
